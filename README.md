@@ -1,5 +1,5 @@
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=zizi4n5)
-theme=dark
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=zizi4n5&count_private=true&theme=dracula)
+
 <!--
 **yuhiko1122/yuhiko1122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

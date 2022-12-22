@@ -1,4 +1,4 @@
-![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=zizi4n5&repo=homebridge-switchbot-for-mac)
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=zizi4n5)
 <!--
 **yuhiko1122/yuhiko1122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
